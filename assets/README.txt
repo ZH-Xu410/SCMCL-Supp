@@ -1,0 +1,2 @@
+We've added video comparisons of NED and ICface with and without our algorithm on the MEAD and RAVDESS datasets, organized in named folders. 
+Each video displays four columns: source frame, reference frame, baseline result, and our result, from left to right.
